@@ -29,7 +29,7 @@ public class TestMaximun extends TestCase {
         int result3 = sub.max(z, x);
         assertTrue(result1 == y);
         assertTrue(result2 == y);
-        assertTrue(result3 == 2);
+        assertTrue(result3 == 1);
     }
 
     //对方法maxSubArr测试
